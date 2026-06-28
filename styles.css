@@ -27,7 +27,7 @@
     }
 
     @font-rancho {
-      font-family: 'Rancho', cursive;
+      font-family: 'Rancho-Regular.ttf';
     }
 
     /* KOTAK INFORMASI PUTIH */
@@ -43,6 +43,9 @@
       width: 50px;
       height: 50px;
       background-color: #e15b28;
+      background-image: url('Logo-Koda.jpg);
+      background-size: cintain;
+      background-reapeat; no-repeat;
       color: white;
       display: flex;
       flex-direction: column;
